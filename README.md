@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Lucila ✨
 
-<!--
-**LucilaSuarez/LucilaSuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una estudiante de programacion con un gran interés en la tecnología y  el desarrollo web. Tengo conocimientos tanto en desarrollo front-end como en back-end, también en Python y  Java. Me interesa especialmente el diseño de interfaces y la experiencia de usuario. Actualmente estoy estudiando en la UTN y trabajando en proyectos que me desafían a mejorar mis habilidades cada día. 
 
-Here are some ideas to get you started:
+## 💻 Tecnologías y lenguajes.
+- HTML, CSS, JavaScript
+- Node.js y Express
+- MongoDB y SQL (básico)
+- Python / Pygame
+- Java (POO)
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- 🎮 **Juego interactivo con Pygame** – Juego tipo trivia desarrollado con Python.
+- 🛍️ **L.I. Store** – Tienda online con productos dinámicos, desarrollada con JavaScript y Node.js, utilizando una API REST y SQL.
+- 📦 **CRUD de Productos de L. I. Store** – Proyecto con operaciones GET, POST y PUT usando fetch.
+
+## 📫 Contacto
+- ✉️ Email: lulisuarez29@gmail.com
+- 🌍 Ciudad: Ciudad Autónoma Buenos Aires, Argentina
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucilaSuarez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucilaSuarez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
