@@ -5,7 +5,7 @@ Soy una estudiante de programacion con un gran interés en la tecnología y  el 
 ## 💻 Tecnologías y lenguajes.
 - HTML, CSS, JavaScript
 - Node.js y Express
-- MongoDB y SQL (básico)
+- MongoDB y SQL 
 - Python / Pygame
 - Java (POO)
 - Git y GitHub
