@@ -19,6 +19,5 @@ Soy una estudiante de programacion con un gran interés en la tecnología y  el 
 - ✉️ Email: lulisuarez29@gmail.com
 - 🌍 Ciudad Autónoma Buenos Aires, Argentina
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucilaSuarez&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
